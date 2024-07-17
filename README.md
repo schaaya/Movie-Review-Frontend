@@ -12,7 +12,7 @@ The responsive Movie Review web application is a platform where users can add re
 ## ⚙️ Local Setup and Installation
 * Clone this repository.
 ```
-$ git clone https://github.com/aviralj02/movie-review-app.git
+$ git clone https://github.com/schaaya/Movie-Review-Frontend.git
 ```
 * Install NPM packages for movie-client.
 ```
